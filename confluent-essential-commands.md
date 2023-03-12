@@ -8,3 +8,6 @@
 # Kafka Topic Management
 - [Modify partition count](https://support.confluent.io/hc/en-us/articles/360040094151-How-to-increase-the-partition-count-for-a-Confluent-Cloud-hosted-topic)
 
+
+# ksqlDB issues
+- [pull query deadlock](https://github.com/confluentinc/ksql/issues/8816)
