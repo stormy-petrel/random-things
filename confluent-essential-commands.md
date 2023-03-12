@@ -7,6 +7,7 @@
 
 # Kafka Topic Management
 - [Modify partition count](https://support.confluent.io/hc/en-us/articles/360040094151-How-to-increase-the-partition-count-for-a-Confluent-Cloud-hosted-topic)
+   - Need the tar version of the [Confluent Platform](https://docs.confluent.io/platform/current/platform-quickstart.html#step-1-download-and-start-cp) 
 
 
 # ksqlDB issues
