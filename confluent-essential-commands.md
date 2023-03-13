@@ -10,6 +10,8 @@
    - Need the tar version of the [Confluent Platform](https://docs.confluent.io/platform/current/platform-quickstart.html#step-1-download-and-start-cp)
    - The configuration file required can be generated on ConfluentCloud UI:  Clients-> `New Client` button brining up pop-up windoer with auto-filled info  
 
+# Kafka Persistent Query
+- [Monitoring Persistent Query](https://docs.confluent.io/cloud/current/ksqldb/monitoring-ksqldb.html#monitoring-persistent-queries)
 
 # ksqlDB issues
 - [pull query deadlock](https://github.com/confluentinc/ksql/issues/8816)
