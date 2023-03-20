@@ -21,4 +21,4 @@
 
 
 # Install Confluent HTTP Sink Connector
-- [HTTP Sink] https://www.confluent.io/hub/confluentinc/kafka-connect-http
+- [HTTP Sink](https://www.confluent.io/hub/confluentinc/kafka-connect-http)
